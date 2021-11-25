@@ -1,0 +1,14 @@
+.but-me,
+.but-no {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
+
+.but-me {
+    background-color: #000;
+    color: #fff;
+}
+
+.but-no {
+    background-color: #ffff00;
+}
